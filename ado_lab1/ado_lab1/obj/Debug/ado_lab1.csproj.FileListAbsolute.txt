@@ -1,0 +1,23 @@
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\bin\Debug\ado_lab1.exe.config
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\bin\Debug\ado_lab1.exe
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\bin\Debug\ado_lab1.pdb
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.AssemblyReference.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.SuggestedBindingRedirects.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.Form1.resources
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.Properties.Resources.resources
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.GenerateResource.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.CoreCompileInputs.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.exe
+D:\iti 9 mo\Enitity framework ado\day 1\lab\ado_lab1\ado_lab1\obj\Debug\ado_lab1.pdb
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\bin\Debug\ado_lab1.exe.config
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\bin\Debug\ado_lab1.exe
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\bin\Debug\ado_lab1.pdb
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.AssemblyReference.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.SuggestedBindingRedirects.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.connectedMode.resources
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.disconnectedMode.resources
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.Properties.Resources.resources
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.GenerateResource.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.csproj.CoreCompileInputs.cache
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.exe
+D:\iti 9 mo\Enitity framework ado\day 1\lab\احمد عبدالجليل\ado_lab1\ado_lab1\obj\Debug\ado_lab1.pdb
